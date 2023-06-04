@@ -2,7 +2,7 @@
 ~~What the hell~~ Washed too hot Stealth**burner** - a scaled down Stealthburner for the tiny Vorons
 
 ![](pictures/WTH_Burner.png)
-<img src="pictures/Render.PNG" height="200"/> <img src="pictures/print.jpg" height="200"/>
+<img src="pictures/Render.PNG" height="250"/> <img src="pictures/print.jpg" height="250"/>
 
 ### Work in Progress
 
