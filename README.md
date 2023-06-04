@@ -39,6 +39,6 @@ A very easily solution would be the [Pandora Gantry](https://github.com/MasturMy
 A stock [Micron](https://github.com/PrintersForAnts/Micron) has a little more Y travel than needed - as far I can tell from the CAD, I will have to see how that applies to the real thing once I build mine.
 
 
-1: Stealthburner - Wth-Burner - Mini-Stealthburner |  2: Wth-Burber - Mini SB |  3: Wth-Burner in TriBall (my V0 with kinematic triple z)
+1: Stealthburner - Wth-Burner - Mini-Stealthburner |  2: Wth-Burner - Mini SB |  3: Wth-Burner in TriBall (my V0 with kinematic triple z)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](pictures/Render.PNG)  |  ![](pictures/comp_mini.png)  |  ![](pictures/WTHBurner_TriBall.png)
