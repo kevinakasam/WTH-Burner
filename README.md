@@ -15,6 +15,15 @@ This is still in progress and not ready to be printed, but I thought I could sta
 - Compatible with Phaethus Dragon, Red lizard and Dragonfly-BMO (I would recommend a ceramic heater due the tight space)
 - Weight of 265g (Phaethus Dragon SF + 17mm 10T Moons)  
 
+
+#### Progress
+
+##### 11.06.2023 - Swapped out the Dragon with the Red Lizard, the ceramic heater seems to be a much better choice for this little space
+ <img src="pictures/IMG_2882.jpg" width="49%"/>  <img src="pictures/IMG_2883.jpg" width="49%"/>
+
+##### 15.06.2023 - First test mounting with a MGN9h, still waiting on my MGN7h
+ <img src="pictures/IMG_2895.jpg" width="49%"/>  <img src="pictures/IMG_2907.jpg" width="49%"/>
+
 ### CAD Preview
 
 This is only a web preview, I will share all the files once I confirmed it's working :)
