@@ -1,0 +1,3 @@
+### 30.07.2023 - CAD Beta Release (B1)
+
+Due the high interest in the WTH-Burner I decided to release the CAD file - I still want to impove various things, so there arent any STLs yet. You can use the CAD as a reference for whatever you want to use the WTH Burner on :) I will make a custom X-Carriage with the next update that's less limited by the V0.2 mounting holes - I also have to fix wall-thicknesses here and there and add some space around the hotend (The Red Lizard K1 Pro seems to be the best solution for this tiny space). The main assembly should be functional though.
